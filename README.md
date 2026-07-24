@@ -60,7 +60,7 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 
 ### 🔍 Hallazgos Principales
 
-**Métrica General:** El departamento registra una tasa de rotación del 13,8%, equivalente a 133 renuncias sobre una plantilla total de 961 empleados.
+**Métrica General:** El departamento registra una tasa de rotación del **13,8%**, equivalente a 133 renuncias sobre una plantilla total de 961 empleados.
 
 **Concentración por Rol:** Existe una alta concentración del riesgo en perfiles técnicos específicos; 109 de las 133 bajas provienen de solo dos puestos: Laboratory Technician (62) y Research Scientist (47).
 
@@ -73,4 +73,26 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 ### 📈 Recomendaciones Estratégicas
 
 **Ajuste salarial:** Realizar una revisión de equidad y competitividad salarial en los puestos base de ciencia y técnica (Laboratory Technician y Research Scientist), estructurando además planes de retención y aumentos por antigüedad para evitar la fuga de talento consolidado.
+
+### Departamento de Ventas
+
+<img width="1421" height="796" alt="image" src="https://github.com/user-attachments/assets/9fd208ec-2ab2-4ce9-99be-e5867d76e969" />
+
+### 🔍 Hallazgos Principales
+
+**Métrica General:** El departamento registra la tasa de rotación más alta con un **20,6%**, equivalente a 92 renuncias sobre una plantilla total de 446 empleados.
+
+**Concentración por Rol:** Prácticamente la totalidad de las salidas se concentran en puestos comerciales directos: 57 en Sales Executive y 33 en Sales Representative (90 de las 92 bajas totales).
+
+**Factor de Distancia:** Se observa una brecha notable en el traslado; los empleados que renuncian viven en promedio a 10,80 km, frente a los 8,99 km de quienes deciden quedarse en la empresa.
+
+**Curva de Antigüedad:** El riesgo se manifiesta con mayor fuerza en dos extremos: un pico temprano durante el primer año (0-1 año) con 24 bajas y un volumen crítico en colaboradores con más de 5 años de antigüedad (32 bajas).
+
+**Compensación Salarial:** Los salarios promedio varían significativamente según el rol, registrando $3.000 para Sales Representative y $7.000 para Sales Executive.
+
+### 📈 Recomendaciones Estratégicas
+
+**Flexibilidad Operativa:** Evaluar esquemas de trabajo híbrido o remoto para reducir los tiempos y el cansancio asociado a la distancia al hogar.
+
+**Incentivos y Compensaciones:** Revisar la competitividad de las estructuras de comisiones y bonos para retener el talento comercial con mayor experiencia y evitar la fuga temprana en puestos base.
 
