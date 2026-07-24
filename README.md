@@ -52,4 +52,25 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 
 **Flexibilidad Laboral:** Evaluar esquemas de trabajo híbrido o remoto para reducir los tiempos de traslado y el desgaste diario de los colaboradores que viven a mayor distancia.
 
-**Planes de Onboarding** y Carrera: Rediseñar el acompañamiento durante los primeros tres años de empleo, reforzando la capacitación inicial y revisando la equidad salarial para mejorar el clima y la satisfacción laboral antes de que se cumpla el ciclo crítico de renuncia.
+**Planes de Onboarding y Carrera:** Rediseñar el acompañamiento durante los primeros tres años de empleo, reforzando la capacitación inicial y revisando la equidad salarial para mejorar el clima y la satisfacción laboral antes de que se cumpla el ciclo crítico de renuncia.
+
+### Departamento de Búsqueda y Desarollo
+
+<img width="1424" height="797" alt="image" src="https://github.com/user-attachments/assets/10ab6e6f-d7c9-4eaf-8067-340e3796c1d4" />
+
+### 🔍 Hallazgos Principales
+
+**Métrica General:** El departamento registra una tasa de rotación del 13,8%, equivalente a 133 renuncias sobre una plantilla total de 961 empleados.
+
+**Concentración por Rol:** Existe una alta concentración del riesgo en perfiles técnicos específicos; 109 de las 133 bajas provienen de solo dos puestos: Laboratory Technician (62) y Research Scientist (47).
+
+**Factores de Compensación:** Estos puestos críticos coinciden con ser los salarios más bajos de toda la empresa ($3.000 promedio).
+
+**Contexto de Satisfacción y Distancia:** Curiosamente, el departamento mantiene un nivel de satisfacción laboral promedio alto (valor 3 - Alta) y los tiempos/distancias de traslado se alinean con la media general de la compañía, descartando el entorno físico o la insatisfacción general como detonantes principales.
+
+**Curva de Antigüedad:** Las salidas se concentran fuertemente en dos momentos clave: el primer año (0-1 año) con 47 bajas y en colaboradores con más de 5 años de antigüedad (41 bajas).
+
+### 📈 Recomendaciones Estratégicas
+
+**Ajuste salarial:** Realizar una revisión de equidad y competitividad salarial en los puestos base de ciencia y técnica (Laboratory Technician y Research Scientist), estructurando además planes de retención y aumentos por antigüedad para evitar la fuga de talento consolidado.
+
