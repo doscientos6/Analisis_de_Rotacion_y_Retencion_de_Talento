@@ -35,6 +35,8 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 ---
 
 ## 📈 Conclusiones y Recomendaciones de Negocio
-1. **Rediseño del Onboarding:** Fortalecer el acompañamiento y la adaptación durante el primer año de empleo para reducir la salida temprana.
-2. **Políticas de Flexibilidad:** Evaluar esquemas de trabajo híbrido o remoto para mitigar el impacto del desgaste por la distancia al hogar.
-3. **Planes de Retención Senior:** Implementar incentivos y planes de carrera claros para retener al talento con mayor antigüedad en la compañía.
+
+<img width="1428" height="798" alt="image" src="https://github.com/user-attachments/assets/84d46b3f-9afe-4147-932b-f17d6a996960" />
+
+En el departamento de recursos humanos se logra encontrar como hay una rotación del **19,9%** (12 empleados que renunciaron sobre un total de 63), a su vez se detectó como la mayoría de empleados que renuncian de esta area están únicamente entre 1 y 3 años en la empresa, a esto hay sumarle que están a una distancia mayor al promedio de la empresa y tienen un nivel de satisfacción laboral de solamente 1 (Baja), además que reciben un salario promedio de $4.000.
+Para mejorar esta situación se podría tener en consideración la implementación de una modalidad híbrida, para lograr que estos empleados no deban realizar ese viaje todos los días para llegar a la empresa, a su vez se podría realizar un aumento de su salario y el mejoramiento de su capacitación, para aumentar su satisfacción laboral y lograr evitar que estos empleados abandonen a los pocos años de ingresar en la empresa
