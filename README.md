@@ -40,7 +40,7 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 
 <img width="1428" height="798" alt="image" src="https://github.com/user-attachments/assets/84d46b3f-9afe-4147-932b-f17d6a996960" />
 
-🔍 Hallazgos Principales
+### 🔍 Hallazgos Principales
 
 **Volumen de Rotación:** El área presenta una tasa de 19,0%, lo que se traduce en 12 empleados renunciados sobre una plantilla total de 63 colaboradores.
 
@@ -48,7 +48,7 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 
 **Factores Externos e Internos:** Quienes deciden abandonar la organización enfrentan una distancia al hogar elevada (13,42 km promedio), combinada con un nivel de satisfacción laboral crítico (valor 1 - Baja) y una retribución salarial promedio de $4.000.
 
-📈 Recomendaciones Estratégicas
+### 📈 Recomendaciones Estratégicas
 
 **Flexibilidad Laboral:** Evaluar esquemas de trabajo híbrido o remoto para reducir los tiempos de traslado y el desgaste diario de los colaboradores que viven a mayor distancia.
 
