@@ -54,7 +54,7 @@ WHERE employeenumber IS NULL
    OR monthlyincome IS NULL;
 
 -- B. Buscamos registros duplicados (por número de empleado)
-SELECT employeenumber, COUNT(*) AS total_repeticiones
+SELECT employeenumber, COUNT(*) AS total_duplicados
 FROM hr_employee_data
 GROUP BY employeenumber
 HAVING COUNT(*) > 1;
