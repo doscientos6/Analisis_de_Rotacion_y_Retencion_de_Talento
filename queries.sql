@@ -53,22 +53,11 @@ WHERE employeenumber IS NULL
    OR jobrole IS NULL 
    OR monthlyincome IS NULL;
 
--- B. Auditoría de valores únicos (Catálogo)
--- Usamos DISTINCT para verificar que no haya redundancias o errores de tipeo en las categorías
-SELECT DISTINCT 
-    attrition,
-    businesstravel,
-    department,
-    educationfield,
-    gender,
-    jobrole,
-    maritalstatus,
-    over18,
-    overtime
+-- B. Buscamos registros duplicados (por número de empleado)
+SELECT employeenumber, COUNT(*) AS total_repeticiones
 FROM hr_employee_data
-ORDER BY
-    department,
-	jobrole
+GROUP BY employeenumber
+HAVING COUNT(*) > 1;
 
 -- 3. ANÁLISIS EXPLORATORIO (KPIs Iniciales)
 
