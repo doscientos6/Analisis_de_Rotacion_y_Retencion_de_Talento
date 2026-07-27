@@ -43,7 +43,7 @@ CREATE TABLE hr_employee_data (
 );
 
 -- 2. VALIDACIÓN DE CALIDAD DE DATOS
--- A. Buscamos filas con inconsistencias (valores nulos) antes del análisis
+-- A. Buscamos filas con inconsistencias (valores nulos) en columnas críticas antes del análisis
 -- Si la cantidad de filas es 0 entonces no hay valores nulos
 SELECT * 
 FROM hr_employee_data 
