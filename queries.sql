@@ -47,7 +47,11 @@ CREATE TABLE hr_employee_data (
 -- Si la cantidad de filas es 0 entonces no hay valores nulos
 SELECT * 
 FROM hr_employee_data 
-WHERE NOT (hr_employee_data IS NOT NULL);
+WHERE employeenumber IS NULL 
+   OR age IS NULL 
+   OR department IS NULL 
+   OR jobrole IS NULL 
+   OR monthlyincome IS NULL;
 
 -- B. Auditoría de valores únicos (Catálogo)
 -- Usamos DISTINCT para verificar que no haya redundancias o errores de tipeo en las categorías
