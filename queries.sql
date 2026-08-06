@@ -1,4 +1,4 @@
-- PROYECTO: Análisis de Rotación de Empleados (IBM HR Analytics)
+
 -- OBJETIVO: Limpieza, validación y exploración de datos con SQL
 -- ==========================================================
 
