@@ -21,3 +21,6 @@ WHERE
     OR monthlyincome IS NULL;
 
 --------
+
+SELECT * FROM hr_employee_data
+WHERE YearsAtCompany > TotalWorkingYears;
