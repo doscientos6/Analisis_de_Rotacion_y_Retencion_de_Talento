@@ -1,5 +1,5 @@
 -- 1. CREACIÓN DE LA TABLA
--- Definición de la estructura de datos para la carga del CSV
+-- DEFINICIÓN DE LA ESTRUCTURA DE DATOS PARA LA CARGA DEL CSV.
 CREATE TABLE hr_employee_data (
     EmployeeNumber INT PRIMARY KEY
     Age SMALLINT NOT NULL CHECK(age BETWEEN 18 OR 100),
