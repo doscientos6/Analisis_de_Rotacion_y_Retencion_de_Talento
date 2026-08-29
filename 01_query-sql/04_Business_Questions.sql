@@ -11,7 +11,7 @@ SELECT attrition, ROUND(AVG(distancefromhome), 1) AS distancia_promedio
 FROM empleados
 GROUP BY attrition;
 --C. SATISFACCIÓN CON ENTORNO LABORAL
-SELECT attrition, ROUND(AVG(environmentsatisfaction), 2) AS satisfaccion_entorno_promedio
+SELECT attrition, ROUND(AVG(jobsatisfaction), 2) AS satisfaccion_trabajo_promedio
 FROM empleados
 GROUP BY attrition;
 
