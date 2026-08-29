@@ -1,32 +1,32 @@
 --4. REALIZAMOS PREGUNTAS QUE PUEDAN AYUDAR A LA EMPRESA A ENTENDER POR QUE LA POSIBLE ALTA TASA DE ATTRITION.
 
---A. Salario promedio 
+--A. SALARIO PROMEDIO
 SELECT attrition, deparment, ROUND(AVG(monthlyincome), 0) AS salario_promedio
 FROM empleados
 GROUP BY attrition, deparment
 ORDER BY attrition, deparment;
 
---B. Distancia promedio desde el hogar hasta la zona de trabajo
+--B. DISTANCIA PROMEDIO DESDE EL HOGAR HASTA LA ZONA DE TRABAJO
 SELECT attrition, ROUND(AVG(distancefromhome), 1) AS distancia_promedio
 FROM empleados
 GROUP BY attrition;
---C. Satisfacción con entorno laboral
+--C. SATISFACCIÓN CON ENTORNO LABORAL
 SELECT attrition, ROUND(AVG(environmentsatisfaction), 2) AS satisfaccion_entorno_promedio
 FROM empleados
 GROUP BY attrition;
 
---D. Realización de horas extras
+--D. REALIZACIÓN DE HORAS EXTRAS
 SELECT attrition, overtime, COUNT(*) AS cantidad
 FROM empleados
 GROUP BY attrition, overtime
 ORDER BY attrition, overtime;
 
---E. Satisfacción en las relaciones
+--E. SATISFACCIÓN EN LAS RELACIONES
 SELECT attrition, ROUND(AVG(relationshipsatisfaction), 2) AS satisfaccion_relaciones_promedio
 FROM empleados
 GROUP BY attrition;
 
---F. Edad promedio 
+--F. EDAD PROMEDIO 
 SELECT
     CASE
         WHEN age < 25 THEN '18-24'
