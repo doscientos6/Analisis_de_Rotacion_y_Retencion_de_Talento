@@ -8,4 +8,7 @@
 
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/c5c00164-c6a1-4a5d-a321-abd03c5b4a3b" />
 
-Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las columnas" para verificar que las 35 columnas no tengan errores o valores nulos, además que las filas que tienen que ser valores únicos o solo tienen que haber un número exacto de medidas de esa variable se cumplan, por ejemplo attrition o employeenumber
+Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las columnas" para verificar que las 35 columnas no tengan errores o valores nulos, además que las filas que tienen que ser valores únicos o solo tienen que haber un número exacto de medidas de esa variable se cumplan, por ejemplo attrition o employeenumber.
+
+# 3. KPIs descriptivos
+
