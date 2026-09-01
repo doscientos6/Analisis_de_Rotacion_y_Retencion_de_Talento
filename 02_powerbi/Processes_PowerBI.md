@@ -14,5 +14,6 @@ Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las col
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/a003625e-f48c-4744-b0ef-219adbaa9292" />
 
-
 # 4. KPIs sobre las preguntas de negocios
+
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/415cd92c-bdad-4b3f-b7c6-ae46f6da811e" />
