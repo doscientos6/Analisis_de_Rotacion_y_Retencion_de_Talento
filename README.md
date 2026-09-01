@@ -21,7 +21,7 @@ Antes de visualizar, se aseguró la integridad de los datos mediante consultas S
 ### Fase 2: Visualización y Dashboard (Power BI)
 Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y la claridad visual.
 
-##Link para descargar el dashboard .pbix
+## Link para descargar el dashboard .pbix
 
 https://drive.google.com/file/d/1-x9jJgt-mEatbMyvjt577Vh1lrNU5-CR/view?usp=drive_link
 
