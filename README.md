@@ -15,7 +15,7 @@ Este proyecto es un análisis de recursos humanos basado en el dataset de IBM, h
 
 ### Fase 1: Extracción y Preparación (SQL)
 Antes de visualizar, se aseguró la integridad de los datos mediante consultas SQL. 
-* Podés revisar el código completo en el archivo **[queries.sql](./queries.sql)**.
+* Podés revisar el código completo en el archivo "01_Create_Table.sql"
 * **Tareas realizadas:** Creación de la estructura de tablas (DDL), validación de valores nulos y redundantes ,y análisis exploratorio inicial de la variable `Attrition`.
 
 ### Fase 2: Visualización y Dashboard (Power BI)
