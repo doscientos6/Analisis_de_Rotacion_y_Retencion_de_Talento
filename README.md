@@ -27,4 +27,7 @@ https://drive.google.com/file/d/1-x9jJgt-mEatbMyvjt577Vh1lrNU5-CR/view?usp=drive
 
 ### Fase 3: Análisis
 
+## Departamento: Human Resources
+
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/15f66c59-97c8-456c-95ea-bc84843a99e1" />
 
