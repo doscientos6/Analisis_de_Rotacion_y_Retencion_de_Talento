@@ -55,7 +55,6 @@ Dado que el 41,11% de los empleados de 25-34 años que realizaron horas extra te
 Al ser este grupo el de mayor porcentaje de deserción podemos plantear la hipótesis a nivel personal, por lo que probablemente ayudaría brindarles un espacio donde sientan que puedan crecer de manera profesional y no tengan el sentimiento de tener que abandonar la empresa para seguir creciendo. Sin embargo sería pertinente realizar un cuestionario concreamente a los empleados de este rango etario para ver que posibles cambios o medidas la empresa podría tomar para aumentar su motivación de seguir creciendo dentro de la organización.
 
 # Próximos pasos
-Sabiendo que la deserción laboral se centra en los empleados de entre 25 a 34 años, buscaríamos realizar una encuesta a los trabajadores que entren dentro de este grupo etario para lograr comprender que elementos pueden provocar que deserten y motivarlos a que sigan queriendo permanecer en la empresa y crecer dentro de ella.
-
+Dado que la deserción laboral se concentra en los empleados de entre 25 y 34 años, el siguiente paso sería realizar una encuesta a los trabajadores de este grupo etario. El objetivo sería identificar si sienten que tienen posibilidades reales de crecer dentro de la empresa, o si por el contrario están conformes con su rol actual. En caso de no sentirse conformes, indagar en las razones específicas permitiría contar con un panorama más preciso para diseñar soluciones concretas que ayuden a reducir esta fuga de talento.
 
 
