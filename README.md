@@ -41,7 +41,7 @@ Concretamente el rango etario de "25-34" que posee un attrition del 20,2% y que 
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/cb919a72-b043-4afb-8db5-c493eb1e4b4d" />
 
-Dentro de las deserciones del rango etario de "25-34" podemos encontrar que la gran cantidad de empleados que desertaron se encuentran en el departamento de Research and Development donde se haya una mayor diferencia de salarios entre los empleados que desertaron y los que no, además que podemos encontrar que de los 90 empleados que realizaron horas extras, 37 desertaron, representando el 41.11%.
+Dentro de las deserciones del rango etario de "25-34" podemos encontrar que la gran cantidad de empleados que desertaron se encuentran en el departamento de Research and Development donde se haya una mayor diferencia de salarios entre los empleados que desertaron y los que no, además que podemos encontrar que de los 90 empleados que realizaron horas extras, 37 desertaron, representando el 41.11% de los empleados que realizaron horas extras.
 
 # Posibles soluciones
 
@@ -52,7 +52,10 @@ Reducir la diferencia salarial entre empleados para lograr que se sientan valora
 Buscar reducir la cantidad de horas extras que realizan los empleados o que en cambio tengan la sensación que esas horas extras tienen una recompensa que vale la pena, para así evitar un posible burnout que pueda reducir su rendimiento o hacer que lleguen a la decisión de desertar.
 
 ### Control del rango etario 25-34: 
-Al ser este grupo el de mayor porcentaje de deserción podemos intuir ya que buscan crecimiento a nivel personal, por lo que probablemente ayudaría brindarles un espacio donde sientan que puedan crecer de manera profesional y no tengan el sentimiento de tener que abandonar la empresa para seguir creciendo. Sin embargo sería pertinente realizar un cuestionario concreamente a los empleados de este rango etario para ver que posibles cambios o medidas la empresa podría tomar para aumentar su motivación de seguir creciendo dentro de la organización.
+Al ser este grupo el de mayor porcentaje de deserción podemos plantear la hipótesis a nivel personal, por lo que probablemente ayudaría brindarles un espacio donde sientan que puedan crecer de manera profesional y no tengan el sentimiento de tener que abandonar la empresa para seguir creciendo. Sin embargo sería pertinente realizar un cuestionario concreamente a los empleados de este rango etario para ver que posibles cambios o medidas la empresa podría tomar para aumentar su motivación de seguir creciendo dentro de la organización.
+
+# Próximos pasos
+Sabiendo que la deserción laboral se centra en los empleados de entre 25 a 34 años, buscaríamos realizar una encuesta a los trabajadores que entren dentro de este grupo etario para lograr comprender que elementos pueden provocar que deserten y motivarlos a que sigan queriendo permanecer en la empresa y crecer dentro de ella.
 
 
 
