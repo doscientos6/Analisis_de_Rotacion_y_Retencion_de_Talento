@@ -41,7 +41,7 @@ Concretamente el rango etario de "25-34" que posee un attrition del 20,2% y que 
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/cb919a72-b043-4afb-8db5-c493eb1e4b4d" />
 
-Dentro de las deserciones del rango etario de "25-34" podemos encontrar que la gran cantidad de empleados que desertaron se encuentran en el departamento de Research and Development donde se haya una mayor diferencia de salarios entre los empleados que desertaron y los que no, además que podemos encontrar que de los 90 empleados que realizaron horas extras, 37 desertaron, representando el 41.11% de los empleados que realizaron horas extras.
+Dentro de las deserciones del rango etario de '25-34', encontramos que la mayor cantidad se concentra en el departamento de Research and Development, donde se da además la mayor diferencia salarial entre quienes desertaron y quienes no. Adicionalmente, dentro de este mismo rango etario, de los 90 empleados que realizaron horas extra, 37 desertaron — un 41,11%, muy por encima de la tasa de attrition general del grupo.
 
 # Posibles soluciones
 
