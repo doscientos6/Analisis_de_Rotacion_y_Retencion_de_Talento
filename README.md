@@ -4,7 +4,7 @@ Este proyecto es un análisis de recursos humanos basado en el dataset de IBM, h
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 * **SQL (PostgreSQL):** Extracción, modelado de datos, auditoría y consultas exploratorias iniciales.
 * **Power BI & DAX:** Modelado relacional, cálculo de métricas avanzadas (Medidas DAX) y diseño del dashboard interactivo.
 * **Storytelling de Negocio:** Traducción de métricas técnicas a insights accionables para la toma de decisiones.
@@ -27,7 +27,17 @@ https://drive.google.com/file/d/1-x9jJgt-mEatbMyvjt577Vh1lrNU5-CR/view?usp=drive
 
 ### Fase 3: Análisis
 
-## Departamento: Human Resources
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/3776458f-1993-473e-8684-3b8442bf55b5" />
 
-<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/15f66c59-97c8-456c-95ea-bc84843a99e1" />
+A partir de los gráficos se puede observar que las deserciones laborales se concentran en dos puntos específicos:
+
+# Salario medio
+
+# Rango etario
+
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/16b14403-ae31-4225-989f-d9f0d1676b09" />
+
+Concretamente el rango etario de "25-34" que posee un attrition del 20,2% y que compone a casi la mitad de los desertados totales, encontrando que el mayor punto de fuga se encuentra en las personas de este rango de edad.
+
+
 
