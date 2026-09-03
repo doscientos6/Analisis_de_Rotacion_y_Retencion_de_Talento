@@ -46,10 +46,10 @@ Dentro de las deserciones del rango etario de '25-34', encontramos que la mayor 
 # Posibles soluciones
 
 ### Plantear mejoras de salarios o ascensos: 
-Reducir la diferencia salarial entre empleados para lograr que se sientan valorados y no decidan desertar y/o dejarles en claro la oportunidad de ascender de puesto, así por consecuencia ser más importante para la empresa y tener un mayor salario.
+En el departamento de Research & Development, donde se concentra la mayor parte de las deserciones del grupo de 25 a 34 años, se observó también la mayor diferencia salarial entre quienes desertaron y quienes permanecieron en la empresa. Esto sugiere revisar la política salarial de ese departamento en particular, así como comunicar con mayor claridad las oportunidades de ascenso disponibles, de forma que los empleados perciban un camino de crecimiento dentro de la organización y no sientan que la única forma de mejorar su situación económica es irse
 
 ### Reducción de horas extras: 
-Buscar reducir la cantidad de horas extras que realizan los empleados para así evitar que tengan un posible burnout que pueda reducir su rendimiento o hacer que lleguen a la decisión de desertar o que en cambio esas horas extras sean de forma esporádica y que le de al empleado la sensación de que vale la pena la recompensa
+Dado que el 41,11% de los empleados de 25-34 años que realizaron horas extra terminaron desertando, se recomienda revisar la carga de horas extra por equipo, priorizando los departamentos con mayor concentración, como Research & Development. También podría evaluarse una compensación adicional (bono o día libre) para quienes superen cierto umbral de horas extra sostenidas en el tiempo, y hacer un seguimiento particular de la carga laboral del grupo de 25 a 34 años, ya que es donde el efecto de las horas extra sobre la deserción se muestra más marcado.
 
 ### Control del rango etario 25-34: 
 Al ser este grupo el de mayor porcentaje de deserción podemos plantear la hipótesis a nivel personal, por lo que probablemente ayudaría brindarles un espacio donde sientan que puedan crecer de manera profesional y no tengan el sentimiento de tener que abandonar la empresa para seguir creciendo. Sin embargo sería pertinente realizar un cuestionario concreamente a los empleados de este rango etario para ver que posibles cambios o medidas la empresa podría tomar para aumentar su motivación de seguir creciendo dentro de la organización.
