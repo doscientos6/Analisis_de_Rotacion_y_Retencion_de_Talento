@@ -23,7 +23,7 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 
 ### Link para descargar el dashboard .pbix
 
-https://drive.google.com/file/d/1-x9jJgt-mEatbMyvjt577Vh1lrNU5-CR/view?usp=drive_link
+https://drive.google.com/file/d/1MrPTcRXyoe0rsXWHzv7OTFwTkdSZOAIJ/view?usp=sharing
 
 ### Fase 3: Análisis
 
