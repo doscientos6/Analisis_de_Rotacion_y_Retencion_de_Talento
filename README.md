@@ -21,7 +21,7 @@ Antes de visualizar, se aseguró la integridad de los datos mediante consultas S
 ### Fase 2: Visualización y Dashboard (Power BI)
 Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y la claridad visual.
 
-## Link para descargar el dashboard .pbix
+### Link para descargar el dashboard .pbix
 
 https://drive.google.com/file/d/1-x9jJgt-mEatbMyvjt577Vh1lrNU5-CR/view?usp=drive_link
 
@@ -31,9 +31,9 @@ https://drive.google.com/file/d/1-x9jJgt-mEatbMyvjt577Vh1lrNU5-CR/view?usp=drive
 
 A partir de los gráficos se puede observar que las deserciones laborales se puede deber a tres factores principales: 
 
-• Rango etario
-• Salario medio
-• Horas extras
+## Rango etario
+## Salario medio
+## Horas extras
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/16b14403-ae31-4225-989f-d9f0d1676b09" />
 
@@ -43,7 +43,7 @@ Concretamente el rango etario de "25-34" que posee un attrition del 20,2% y que 
 
 Dentro de las deserciones del rango etario de "25-34" podemos encontrar que la gran cantidad de empleados que desertaron se encuentran en el departamento de Research and Development donde se haya una mayor diferencia de salarios entre los empleados que desertaron y los que no, además que podemos encontrar que de los 90 empleados que realizaron horas extras, 37 desertaron, representando el 41.11%.
 
-## Posibles soluciones
+# Posibles soluciones
 
 ### Plantear mejoras de salarios o ascensos: 
 Reducir la diferencia salarial entre empleados para lograr que se sientan valorados y no decidan desertar y/o dejarles en claro la oportunidad de ascender de puesto, así por consecuencia ser más importante para la empresa y tener un mayor salario.
